@@ -1,7 +1,7 @@
 # Hi there, I'm Senol Dogan 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Full%20Stack%20Software%20Engineer&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Scalable%20Systems%20•%20Cloud%20Native%20•%20High%20Performance&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Senior%20Full%20Stack%20Developer&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Scalable%20Systems%20•%20Cloud%20Native%20•%20High%20Performance&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff" width="100%" />
 </div>
 
 <br>
@@ -53,7 +53,7 @@ I have successfully delivered **numerous web and mobile applications** for clien
 ### 📊 Github Stats
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senoldogann&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=senoldogann&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=senoldogann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fd1c5&text_color=c9d1d9)
 
