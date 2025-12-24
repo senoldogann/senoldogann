@@ -48,19 +48,6 @@ I have successfully delivered **numerous web and mobile applications** for clien
 
 👉 **Explore my full portfolio and case studies at [senoldogan.dev](https://www.senoldogan.dev/)**
 
----
-
-### 📊 Github Stats
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=senoldogann&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=senoldogann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fd1c5&text_color=c9d1d9)
-
-</div>
-
----
-
 <div align="center">
   <a href="https://linkedin.com/in/senoldogann">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
