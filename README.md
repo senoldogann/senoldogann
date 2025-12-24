@@ -1,32 +1,52 @@
 # Hi there, I'm Senol Dogan 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2924&height=200&section=header&text=Building%20High%20Performance%20Systems&fontSize=50&fontAlign=50&fontColor=4fd1c5&desc=Go%20•%20Kubernetes%20•%20Next.js%20•%20Kafka&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Full%20Stack%20Software%20Engineer&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Scalable%20Systems%20•%20Cloud%20Native%20•%20High%20Performance&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff" width="100%" />
 </div>
 
 <br>
 
 ### 🚀 About Me
-I am a Senior Software Engineer specializing in **Distributed Systems**, **Performance Optimization**, and **Scalable Architecture**. My passion lies in building resilient applications that handle high concurrency and massive data streams.
+I am a **Senior Full Stack Developer** with **7+ years of experience** building high-performance, scalable web and mobile applications. Currently based in **Oulu, Finland**, I specialize in architecting distributed systems and cloud-native solutions that solve complex business challenges.
+
+My expertise spans the entire development lifecycle—from **database architecture** and **RESTful/GraphQL API design** to responsive **React/Next.js** frontends and **Kubernetes** deployments. I am passionate about Clean Architecture, SOLID principles, and building software that lasts.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,docker,kubernetes,kafka,redis,postgres,gcp&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,nodejs,postgres,kubernetes,docker,kafka,redis,elastic,gcp,aws,flutter,swift&perline=15)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🛠️ Featured Project: JobFinder.fi
-> A distributed, real-time job aggregation engine built with modern microservices architecture.
+### 🛠️ Technical Arsenal
 
-| Component | Tech Stack | Highlights |
-|-----------|------------|------------|
-| **Core** | **Go (Golang)** | concurrency, goroutines, mutex-locked state |
-| **Scraping** | **Hybrid Engine** | HTTP (Colly) + Headless (Rod) with pool management |
-| **Streaming** | **SSE** | Real-time Server-Sent Events push architecture |
-| **Data** | **Kafka & Redis** | Event-driven processing and high-speed caching |
-| **Infra** | **Kubernetes** | GitOps ready deployment manifests |
+| Domain | Technologies |
+|:---:|:---|
+| **Backend & Systems** | **Go (Golang)**, **Node.js**, **Python**, Ruby, PHP, Express.js, GraphQL |
+| **Frontend & Mobile** | **React**, **Next.js**, **TypeScript**, Redux, TailwindCSS, **React Native**, **Flutter**, Swift (iOS) |
+| **Data & Storage** | **PostgreSQL**, **Redis**, **Elasticsearch**, MongoDB, Firebase, Supabase, Prisma ORM |
+| **DevOps & Cloud** | **Kubernetes**, **Docker**, CI/CD (GitHub Actions), AWS, Azure, GCP |
+| **Architecture** | Microservices, Event-Driven Architecture (**Kafka**), CLEAN, SOLID, TDD |
+
+---
+
+### 💼 Work Experience
+- **Full Stack Developer** @ *Omapaista Oy* (Remote)
+  - Integrated Azure backend services with Next.js frontend.
+  - Optimized frontend-backend communication using modern React patterns.
+- **Full Stack Developer** @ *Mstofix* (Remote)
+  - Developed full-stack enterprise applications with React, Node.js, and PostgreSQL.
+  - Designed scalable RESTful APIs and database schemas.
+- **Frontend Web Developer** @ *EFORWEB Internet Solutions* (Turkey)
+  - Built responsive web interfaces and collaborated on client projects from concept to deployment.
+
+---
+
+### 📂 Portfolio & Projects
+I have successfully delivered **numerous web and mobile applications** for clients worldwide and published multiple apps to the App Store. My work ranges from enterprise-grade SaaS platforms to consumer mobile apps.
+
+👉 **Explore my full portfolio and case studies at [senoldogan.dev](https://www.senoldogan.dev/)**
 
 ---
 
@@ -39,8 +59,13 @@ I am a Senior Software Engineer specializing in **Distributed Systems**, **Perfo
 ---
 
 <div align="center">
-  <sub>Let's connect and build something amazing.</sub><br>
   <a href="https://linkedin.com/in/senoldogann">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.senoldogan.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:contact@senoldogan.dev">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </div>
