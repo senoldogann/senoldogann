@@ -52,8 +52,11 @@ I have successfully delivered **numerous web and mobile applications** for clien
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senoldogann&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&title_color=4fd1c5&icon_color=4fd1c5&text_color=c9d1d9" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senoldogann&layout=compact&theme=omni&hide_border=true&bg_color=0D1117&title_color=4fd1c5&text_color=c9d1d9" height="150" alt="languages graph" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senoldogann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=4fd1c5&title_color=4fd1c5&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=senoldogann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4fd1c5&text_color=c9d1d9)
+
 </div>
 
 ---
