@@ -7,7 +7,7 @@
 <br>
 
 ### 🚀 About Me
-I am a **Senior Full Stack Developer** with **7+ years of experience** building high-performance, scalable web and mobile applications. Currently based in **Oulu, Finland**, I specialize in architecting distributed systems and cloud-native solutions that solve complex business challenges.
+I am a ** Full Stack Developer** with **7+ years of experience** building high-performance, scalable web and mobile applications. Currently based in **Oulu, Finland**, I specialize in architecting distributed systems and cloud-native solutions that solve complex business challenges.
 
 My expertise spans the entire development lifecycle—from **database architecture** and **RESTful/GraphQL API design** to responsive **React/Next.js** frontends and **Kubernetes** deployments. I am passionate about Clean Architecture, SOLID principles, and building software that lasts.
 
