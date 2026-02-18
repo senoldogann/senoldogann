@@ -49,6 +49,16 @@ I have successfully delivered **numerous web and mobile applications** for clien
 👉 **Explore my full portfolio and case studies at [senoldogan.dev](https://www.senoldogan.dev/)**
 
 <div align="center">
+    <a href="https://www.jobfinder.fi/">
+    <p>JobFinder-fi</p>
+  </a>
+    <a href="https://www.code-refactoring.com/">
+    <p>Code-Refactoring.com</p>
+  </a>
+    <a href="https://www.guardianide.com/en">
+    <p>Guardian IDE</p>
+  </a>
+  
   <a href="https://linkedin.com/in/senoldogann">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
