@@ -34,7 +34,7 @@ In addition to my core full stack work, I also build selected projects in **Rust
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux
 - **Backend:** Node.js, Express.js, REST APIs, GraphQL
 - **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, AWS, Azure
+- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, Azure
 
 ### Additional
 - **Languages & Systems:** Go, Rust, Python, PHP
