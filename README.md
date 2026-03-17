@@ -1,64 +1,105 @@
 # Hi there, I'm Senol Dogan 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Senior%20Full%20Stack%20Developer&fontSize=40&fontAlign=50&fontColor=ffffff&desc=Scalable%20Systems%20•%20Cloud%20Native%20•%20High%20Performance&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Senior%20Full%20Stack%20Engineer&fontSize=40&fontAlign=50&fontColor=ffffff&desc=TypeScript%20•%20React%20•%20Next.js%20•%20Node.js&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff" width="100%" />
 </div>
 
-<br>
+<br />
 
-### 🚀 About Me
-I am a ** Full Stack Developer** with **7+ years of experience** building high-performance, scalable web and mobile applications. Currently based in **Oulu, Finland**, I specialize in architecting distributed systems and cloud-native solutions that solve complex business challenges.
+## 🚀 About Me
 
-My expertise spans the entire development lifecycle—from **database architecture** and **RESTful/GraphQL API design** to responsive **React/Next.js** frontends and **Kubernetes** deployments. I am passionate about Clean Architecture, SOLID principles, and building software that lasts.
+I’m a **Senior Full Stack Engineer** based in **Oulu, Finland**, with **7+ years of experience** building scalable web and mobile products.
+
+My core expertise is in **TypeScript, React, Next.js, and Node.js**, covering the full development lifecycle — from product architecture and database design to frontend systems, backend APIs, CI/CD, and cloud deployment.
+
+I focus on building software that is:
+- scalable
+- maintainable
+- performance-oriented
+- aligned with real business goals
+
+In addition to my core full stack work, I also build selected projects in **Rust**, **Go**, and **AI tooling**, especially where **performance**, **reliability**, and **developer experience** matter.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,nodejs,postgres,kubernetes,docker,kafka,redis,elastic,gcp,aws,flutter,swift&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,docker,kubernetes,aws,azure,redis,elastic,go,rust,flutter,swift&perline=15)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠 Tech Stack
 
-| Domain | Technologies |
-|:---:|:---|
-| **Backend & Systems** | **Go (Golang)**, **Node.js**, **Python**, Ruby, PHP, Express.js, GraphQL |
-| **Frontend & Mobile** | **React**, **Next.js**, **TypeScript**, Redux, TailwindCSS, **React Native**, **Flutter**, Swift (iOS) |
-| **Data & Storage** | **PostgreSQL**, **Redis**, **Elasticsearch**, MongoDB, Firebase, Supabase, Prisma ORM |
-| **DevOps & Cloud** | **Kubernetes**, **Docker**, CI/CD (GitHub Actions), AWS, Azure, GCP |
-| **Architecture** | Microservices, Event-Driven Architecture (**Kafka**), CLEAN, SOLID, TDD |
+### Core
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
+- **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions, AWS, Azure
 
----
-
-### 💼 Work Experience
-- **Full Stack Developer** @ *Omapaista Oy* (Remote)
-  - Integrated Azure backend services with Next.js frontend.
-  - Optimized frontend-backend communication using modern React patterns.
-- **Full Stack Developer** @ *Mstofix* (Remote)
-  - Developed full-stack enterprise applications with React, Node.js, and PostgreSQL.
-  - Designed scalable RESTful APIs and database schemas.
-- **Frontend Web Developer** @ *EFORWEB Internet Solutions* (Turkey)
-  - Built responsive web interfaces and collaborated on client projects from concept to deployment.
+### Additional
+- **Languages & Systems:** Go, Rust, Python, PHP
+- **Mobile:** React Native, Flutter, Swift
+- **Architecture:** Clean Architecture, SOLID, TDD, Microservices, Event-Driven Systems
 
 ---
 
-### 📂 Portfolio & Projects
-I have successfully delivered **numerous web and mobile applications** for clients worldwide and published multiple apps to the App Store. My work ranges from enterprise-grade SaaS platforms to consumer mobile apps.
+## 💼 Experience
 
-👉 **Explore my full portfolio and case studies at [senoldogan.dev](https://www.senoldogan.dev/)**
+### Full Stack Developer — Omapalsta Oy  
+*Remote · Contract*  
+- Integrated Azure backend services with a Next.js frontend
+- Improved frontend-backend communication and overall application performance
+- Contributed to reusable UI development and delivery workflows
+
+### Full Stack Developer — Mstofix  
+*Remote · Contract*  
+- Built scalable full stack applications using React, Node.js, and PostgreSQL
+- Designed RESTful APIs and database structures for enterprise use cases
+- Worked on backend services and performance-oriented implementations
+
+### Freelance Full Stack Developer & Consultant  
+*Remote*  
+- Delivered end-to-end web solutions for international clients
+- Managed projects from requirements and architecture to deployment
+- Built landing pages, dashboards, SaaS products, and custom business tools
+
+### Frontend Web Developer — EFORWEB Internet Solutions  
+*Mersin, Turkey*  
+- Developed responsive web interfaces for client projects
+- Collaborated with design and backend teams from concept to delivery
+
+---
+
+## 📂 Selected Projects
+
+### [JobFinder.fi](https://www.jobfinder.fi/)
+A Finland-focused job discovery platform that aggregates listings from multiple sources into a unified and searchable experience.
+
+**Tech:** Next.js, Go, PostgreSQL, Redis, Elasticsearch
+
+---
+
+### [Guardian IDE](https://www.guardianide.com/en)
+An AI-assisted development governance platform designed to support code quality, project oversight, and structured engineering workflows.
+
+**Tech:** Tauri, React, TypeScript, Rust
+
+---
+
+### [Code-Refactoring.com](https://www.code-refactoring.com/)
+An AI-powered code analysis and refactoring platform built to improve maintainability and streamline development workflows.
+
+**Tech:** Next.js, Python
+
+---
+
+## 🌐 Portfolio
+
+I’ve delivered a wide range of products, from business platforms and internal tools to mobile apps and technically ambitious side projects.
+
+👉 Explore my work: **[senoldogan.dev](https://www.senoldogan.dev/)**
 
 <div align="center">
-    <a href="https://www.jobfinder.fi/">
-    <p>JobFinder-fi</p>
-  </a>
-    <a href="https://www.code-refactoring.com/">
-    <p>Code-Refactoring.com</p>
-  </a>
-    <a href="https://www.guardianide.com/en">
-    <p>Guardian IDE</p>
-  </a>
-  
   <a href="https://linkedin.com/in/senoldogann">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
@@ -69,3 +110,9 @@ I have successfully delivered **numerous web and mobile applications** for clien
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </div>
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always interested in connecting with people working on high-quality products, modern web platforms, developer tools, and scalable systems.
