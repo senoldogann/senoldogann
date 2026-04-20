@@ -95,7 +95,7 @@ An AI-powered code analysis and refactoring platform built to improve maintainab
 
 ---
 
-### [ComplyLane.com](https://www.complylane.com/)
+### [ComplyLane.com](https://www.app.complylane.com/)
 The goal of this project was to build ComplyLane, a compliance follow-up workspace for teams that need to track client obligations, owners, due dates, evidence status, and client-ready follow-up in one place instead of spreading that work across spreadsheets, email, and notes.
 
 **Tech:** React, Typescript, Vite, Azure Static Web Apps, Azure Functions, Microsoft Entra ID (MSAL), Google 0Auth, Azure Table Storage, Azure Blog Storage, Azure Queue Storage, Application Insights, OpenAI API, Vitest, Playwright, Bicep.
