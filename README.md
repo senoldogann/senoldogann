@@ -72,6 +72,13 @@ In addition to my core full stack work, I also build selected projects in **Rust
 
 ## 📂 Selected Projects
 
+### [Code Companion Mobile](https://apps.apple.com/us/app/code-companion-mobile/id6763614196)
+I built a way to use GitHub Copilot from my phone and continue coding remotely
+
+**Tech:** React Native Expo, TypeScript
+
+---
+
 ### [JobFinder.fi](https://www.jobfinder.fi/)
 A Finland-focused job discovery platform that aggregates listings from multiple sources into a unified and searchable experience.
 
