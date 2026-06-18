@@ -77,7 +77,7 @@ In addition to my core full stack work, I also build selected projects in **Rust
 
 ## 📂 Selected Projects
 
-### [OmaLeima](https://www.omaleima.fi/
+### [OmaLeima](https://www.omaleima.fi/)
 OmaLeima transfers the app's paper stamp cards to the phone. The student collects the stamps with a QR code, the company scans with their own device, and the organizer sees the evening's situation in one place.
 **Tech:** React Native Expo, TypeScript , Javascript
 
