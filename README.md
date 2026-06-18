@@ -45,6 +45,11 @@ In addition to my core full stack work, I also build selected projects in **Rust
 
 ## 💼 Experience
 
+### Full Stack Developer — Data Solutions Finland Oy
+*Remote · Contract*  
+- Mobile Development with Flutter Offline Agent
+- Improved frontend-backend communication and overall application performance
+
 ### Full Stack Developer — Omapalsta Oy  
 *Remote · Contract*  
 - Integrated Azure backend services with a Next.js frontend
@@ -71,6 +76,12 @@ In addition to my core full stack work, I also build selected projects in **Rust
 ---
 
 ## 📂 Selected Projects
+
+### [OmaLeima](https://www.omaleima.fi/
+OmaLeima transfers the app's paper stamp cards to the phone. The student collects the stamps with a QR code, the company scans with their own device, and the organizer sees the evening's situation in one place.
+**Tech:** React Native Expo, TypeScript , Javascript
+
+---
 
 ### [Code Companion Mobile](https://apps.apple.com/us/app/code-companion-mobile/id6763614196)
 I built a way to use GitHub Copilot from my phone and continue coding remotely
