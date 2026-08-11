@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a **Senior Full Stack Engineer** based in **Oulu, Finland**, with **7+ years of experience** building scalable web and mobile products.
+I’m a **Full Stack Engineer** based in **Oulu, Finland**, with **7+ years of experience** building scalable web and mobile products.
 
 My core expertise is in **TypeScript, React, Next.js, and Node.js**, covering the full development lifecycle — from product architecture and database design to frontend systems, backend APIs, CI/CD, and cloud deployment.
 
