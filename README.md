@@ -1,114 +1,123 @@
 # Senol Dogan
 
 <p align="left">
-  <b>Senior Full Stack Engineer</b> based in <b>Oulu, Finland</b> 🇫🇮<br>
-  7+ years architecting and shipping web platforms, cloud backends, and native developer tools.
+  <b>Senior Full Stack & Systems Engineer</b> based in <b>Oulu, Finland</b> 🇫🇮<br>
+  7+ years architecting enterprise web apps, distributed backends, mobile clients, and developer tooling.
 </p>
 
 <p align="left">
   <a href="https://www.senoldogan.dev"><img src="https://img.shields.io/badge/Portfolio-senoldogan.dev-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/senoldogann"><img src="https://img.shields.io/badge/LinkedIn-senoldogann-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.npmjs.com/package/@senoldogann/context-manager"><img src="https://img.shields.io/badge/NPM-@senoldogann/context--manager-cb3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" /></a>
+  <a href="https://apps.apple.com/us/app/code-companion-mobile/id6763614196"><img src="https://img.shields.io/badge/App_Store-iOS_Apps-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
   <a href="mailto:contact@senoldogan.dev"><img src="https://img.shields.io/badge/Email-contact%40senoldogan.dev-d9381e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://apps.apple.com/us/app/code-companion-mobile/id6763614196"><img src="https://img.shields.io/badge/App_Store-Published_Apps-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 </p>
 
 ---
 
-### 📌 Summary
+### 📌 Engineering Profile
 
-I build end-to-end digital products with an emphasis on clean architecture, resilient data pipelines, and developer ergonomics. 
+I design and ship end-to-end software systems across the entire product lifecycle — from cloud infrastructure and database schemas to reactive frontends, mobile clients, and system-level developer utilities.
 
-- **Primary Core:** TypeScript, React, Next.js, Node.js, PostgreSQL, and Azure cloud infrastructure.
-- **Systems & Tooling:** Writing performance-sensitive engines, CLI utilities, and native apps in **Rust**, **Go**, and **Swift**.
-- **Track Record:** Shipped B2B compliance platforms, live Finnish job aggregator engines, App Store utilities, and open-source MCP / agent tooling.
-
----
-
-### 🚀 Featured Products & Engineering Work
-
-#### Commercial & Production Platforms
-
-- **[ComplyLane](https://app.complylane.com/)** — Enterprise compliance and obligations management workspace.
-  - *Tech:* React, TypeScript, Vite, Azure Static Web Apps, Azure Functions (Serverless), Microsoft Entra ID (MSAL), Azure Storage (Queues, Tables, Blobs), OpenAI API, Bicep IaC, Vitest, Playwright.
-  - *Focus:* Multi-tenant authentication, automated evidence workflows, and automated compliance tracking replacing disparate spreadsheets.
-
-- **[JobFinder.fi](https://www.jobfinder.fi/)** — Real-time job discovery engine aggregating listings across Finland.
-  - *Tech:* Next.js, Go, PostgreSQL, Redis, Elasticsearch.
-  - *Focus:* Multi-source scraping pipeline, high-speed fuzzy indexing, and sub-100ms search latency across Finnish employment boards.
-
-- **[OmaLeima](https://www.omaleima.fi/)** — Digital loyalty and event stamp pass platform for student organizations and merchants across Finland.
-  - *Tech:* React Native (Expo), TypeScript, Node.js, QR verification flow.
-  - *Focus:* Fast mobile validation, merchant scan interface, and real-time event analytics.
-
-- **[Code-Refactoring.com](https://www.code-refactoring.com/)** — Automated code quality and refactoring analysis platform.
-  - *Tech:* Next.js, Python, AST parsing, LLM context orchestration.
-
-#### Mobile & Native Applications
-
-- **[Code Companion Mobile](https://apps.apple.com/us/app/code-companion-mobile/id6763614196)** *(Apple App Store)*
-  - Mobile client enabling developers to interact with GitHub Copilot workflows on iOS devices.
-  - *Tech:* React Native, Expo, TypeScript, Secure Keychain Storage.
-
-- **[Codex Switcher](https://github.com/senoldogann/codex-switcher)** *(macOS Menu Bar)*
-  - Native macOS menu bar utility that monitors OpenAI Codex usage limits and automatically alternates credentials without manual session toggling.
-  - *Tech:* Swift, AppKit, macOS Keychain Services.
-
-- **[Lustra](https://github.com/senoldogann/Lustra-Macebook-Device-Cleaner)** *(macOS)*
-  - High-performance macOS cache and system maintenance utility engineered with native UI ergonomics.
-  - *Tech:* Swift, SwiftUI.
-
-#### Open Source & Developer Tooling
-
-- **[LLM-Context-Manager](https://github.com/senoldogann/LLM-Context-Manager)** (`@senoldogann/context-manager` on npm)
-  - Knowledge graph generator and Model Context Protocol (MCP) server that indexes codebases into queryable AST graphs for coding agents (Claude Code, Cursor, Windsurf).
-  - *Tech:* TypeScript, Tree-sitter, SQLite, MCP Protocol.
-
-- **[own-harness](https://github.com/senoldogann/own-harness)**
-  - Local proxy and policy enforcement plane for AI coding agents; intercepts agent API traffic to optimize token usage and track execution telemetry.
-  - *Tech:* TypeScript, SQLite, Local Policy Engine.
-
-- **[Guardian IDE](https://www.guardianide.com/en)**
-  - Architectural governance and code security suite designed to enforce team boundaries and prevent hallucinated regressions in automated workflows.
-  - *Tech:* Rust, Tauri, React, TypeScript.
-
-- **[RustWatch](https://github.com/senoldogann/RustWatch)**
-  - Lightweight, terminal-based resource monitor visualizing CPU, memory, and thread allocations with near-zero runtime overhead.
-  - *Tech:* Rust, Terminal UI (Ratatui).
+- **Frontend & Web Systems:** Modern React (18/19), Next.js (App Router, SSR, RSC), TypeScript, Tailwind CSS, Vite.
+- **Backend & Cloud Architecture:** Node.js, Express, Go, Python (FastAPI), Azure Cloud (Serverless Functions, Bicep IaC, Entra ID, Storage Queues/Blobs), Docker.
+- **Data, BaaS & State:** PostgreSQL, Supabase, Redis, Elasticsearch, LanceDB (Embedded Vector DB), SQLite.
+- **Testing & Quality Assurance:** Test-Driven Development (TDD) with Vitest, Playwright (E2E), Jest, Pytest, and Rust Cargo integration test suites.
+- **Observability & Resilience:** Production monitoring with Sentry, Azure Application Insights, structured logging (`tracing`, `pino`), and graceful degradation.
+- **Systems & Native:** High-performance tooling and mobile clients written in **Rust**, **Go**, **Swift**, and **React Native**.
 
 ---
 
 ### 🛠 Technical Arsenal
 
-| Layer | Technologies & Tools |
+| Category | Core Stack & Tools |
 | :--- | :--- |
-| **Frontend & UI Systems** | TypeScript, React 19, Next.js (App Router), Tailwind CSS, Vite, Redux Toolkit, Zustand |
-| **Backend & APIs** | Node.js, Express.js, Go (net/http, Gin), REST APIs, GraphQL, Background Task Queues |
-| **Cloud & DevOps** | Microsoft Azure (Functions, Static Web Apps, Entra ID, Storage), Docker, Kubernetes, GitHub Actions CI/CD, Bicep IaC |
-| **Databases & Caching** | PostgreSQL, Redis, Elasticsearch, MongoDB, SQLite |
-| **Systems & Mobile** | Rust, Swift (macOS & iOS), React Native / Expo, Flutter |
-| **Testing & Quality** | Vitest, Jest, Playwright, TDD, Clean Architecture, SOLID |
+| **Languages** | TypeScript, JavaScript, Rust, Go, Python, Swift, SQL |
+| **Frontend Frameworks** | React, Next.js, Tailwind CSS, Vite, Redux Toolkit, Zustand, deck.gl |
+| **Backend & Microservices** | Node.js, Express.js, Go (`net/http`, Gin), FastAPI, REST, GraphQL, MQTT (`rumqttc`) |
+| **Databases & BaaS** | PostgreSQL, Supabase, Redis, Elasticsearch, LanceDB, SQLite, MongoDB |
+| **Testing & Automation** | Vitest (`@vitest/coverage-v8`), Playwright, Jest, Pytest (`pytest-asyncio`, `pytest-cov`), Rust `tests/` |
+| **Cloud & DevOps** | Microsoft Azure (Functions, SWA, Entra ID, Queues, Blobs), Docker, Kubernetes, Bicep IaC, GitHub Actions CI/CD |
+| **Observability & Security** | Sentry, Azure Application Insights, Structured Tracing (`tracing-subscriber`), MSAL / Entra ID, OAuth2 |
+| **Mobile & Desktop** | React Native (Expo), Flutter, Swift (macOS & iOS), Tauri |
 
 ---
 
-### 💼 Commercial Experience Overview
+### 🚀 Production Products & Engineering Highlights
 
-- **Contract Full Stack Engineer** — *Data Solutions Finland Oy* (Remote)
-  - Built offline-resilient mobile architectures using Flutter with local state synchronization.
-  - Optimized backend communications and latency for distributed fieldwork agents.
-- **Contract Full Stack Engineer** — *Omapalsta Oy* (Remote)
-  - Connected complex Azure backend services with Next.js frontend applications.
-  - Developed reusable UI libraries and standard delivery CI/CD pipelines.
-- **Contract Full Stack Engineer** — *Mstofix* (Remote)
-  - Engineered relational database models in PostgreSQL and developed Node.js REST services.
-  - Delivered responsive enterprise dashboards with React.
-- **Independent Consultant & SaaS Builder** (2019 – Present)
-  - Architected, deployed, and maintained 10+ custom web apps, mobile apps, and developer utilities for clients worldwide.
+#### Enterprise SaaS & Live Web Platforms
+
+- **[ComplyLane](https://app.complylane.com/)** — B2B compliance and obligation tracking workspace.
+  - Replaces spreadsheet workflows with real-time obligation ownership, evidence audits, and client reporting.
+  - **Stack:** React, TypeScript, Vite, Azure Static Web Apps, Azure Functions (Serverless), Microsoft Entra ID (MSAL), Azure Table/Blob/Queue Storage, OpenAI API, Bicep IaC.
+  - **Quality & Observability:** Comprehensive automated test coverage via **Vitest** and **Playwright (E2E)**; monitored with **Application Insights**.
+
+- **[JobFinder.fi](https://www.jobfinder.fi/)** — Finland-wide job discovery and aggregation engine.
+  - Aggregates employment listings from 9+ Finnish portals in real-time with sub-100ms search latency.
+  - **Stack:** Next.js, Go microservices, PostgreSQL, Redis cache layer, Elasticsearch fuzzy full-text search.
+
+- **[OmaLeima](https://www.omaleima.fi/)** — Digital stamp passport and event loyalty platform used across Finland.
+  - Digitizes physical student passports with offline-resilient QR verification between attendees and merchant devices.
+  - **Stack:** React Native (Expo), TypeScript, Node.js backend.
+
+- **[Code-Refactoring.com](https://www.code-refactoring.com/)** — AI-assisted static analysis and refactoring workspace.
+  - Analyzes codebase maintainability and automates structural code transformations.
+  - **Stack:** Next.js, Python, AST analysis engine.
+
+#### Mobile & Native Desktop Applications
+
+- **[Code Companion Mobile](https://apps.apple.com/us/app/code-companion-mobile/id6763614196)** *(Published on Apple App Store)*
+  - Native iOS client allowing developers to interact with GitHub Copilot context and manage remote coding sessions on the go.
+  - **Stack:** React Native (Expo), TypeScript, iOS Secure Keychain.
+
+- **[Codex Switcher](https://github.com/senoldogann/codex-switcher)** *(macOS Menu Bar)*
+  - Background menu bar utility that monitors OpenAI rate limits and rotates credentials with zero manual friction.
+  - **Stack:** Swift, AppKit, macOS Keychain API.
+
+- **[Lustra](https://github.com/senoldogann/Lustra-Macebook-Device-Cleaner)** *(macOS)*
+  - System performance and cache maintenance tool engineered with native macOS design principles.
+  - **Stack:** Swift, SwiftUI.
+
+#### Open Source & Developer Infrastructure
+
+- **[LLM-Context-Manager](https://github.com/senoldogann/LLM-Context-Manager)** ([NPM: `@senoldogann/context-manager`](https://www.npmjs.com/package/@senoldogann/context-manager))
+  - Model Context Protocol (MCP) server that converts multi-language codebases into queryable Knowledge Graphs for AI assistants (Claude Code, Cursor, Windsurf).
+  - **Engine:** Built with a high-speed Rust core (`ccm-core`), **Tree-sitter** AST parsers (TypeScript, Python, Rust, Go), **LanceDB** vector store, and **petgraph**. Includes automated golden integration tests.
+
+- **[NordicPulse](https://github.com/senoldogann/NordicPulse)**
+  - Distributed Energy Resource (DER) management and telemetry platform handling high-throughput sensor streams.
+  - **Stack:** Rust telemetry ingestor (`rumqttc`, `tokio`, `sqlx`), PostgreSQL, Next.js 16 (React 19), deck.gl, and MapLibre GL.
+
+- **[own-harness](https://github.com/senoldogann/own-harness)**
+  - Local proxy and policy control plane for AI coding agents to reduce API costs and enforce team security rules.
+  - **Stack:** TypeScript, pnpm monorepo, SQLite, full test coverage via **Vitest V8 Coverage**.
+
+- **[Guardian IDE](https://www.guardianide.com/en)**
+  - Code governance protocol enforcing architecture boundaries for small software engineering teams.
+  - **Stack:** Rust, Tauri, React, TypeScript.
 
 ---
 
-### 📬 Get in Touch
+### 💼 Work Experience
+
+- **Contract Full Stack Developer** — *Data Solutions Finland Oy* (Remote)
+  - Developed an offline-capable mobile agent with Flutter, implementing client-side caching and resilient sync workflows.
+  - Improved API response times and frontend-backend communication protocol efficiency.
+- **Contract Full Stack Developer** — *Omapalsta Oy* (Remote)
+  - Architected and integrated Azure cloud backends with Next.js frontend web applications.
+  - Implemented reusable component design systems and standardized CI/CD pipelines.
+- **Contract Full Stack Developer** — *Mstofix* (Remote)
+  - Built scalable web applications with React, Node.js, and PostgreSQL.
+  - Designed relational database schemas and optimized RESTful endpoints for enterprise workflows.
+- **Independent Consultant & Full Stack Engineer** (Remote · Worldwide)
+  - Delivered 10+ custom SaaS platforms, dashboards, and internal business tools for international clients.
+  - Managed end-to-end delivery: architecture, testing (Vitest / Playwright / Pytest), deployment, and monitoring (Sentry / Azure).
+
+---
+
+### 📬 Connect with Me
 
 - 🌐 **Portfolio & Case Studies:** [senoldogan.dev](https://www.senoldogan.dev)
 - 💼 **LinkedIn:** [linkedin.com/in/senoldogann](https://www.linkedin.com/in/senoldogann)
-- ✉️ **Direct Email:** [contact@senoldogan.dev](mailto:contact@senoldogan.dev)
-- 📍 **Location:** Oulu, Finland (Available for on-site/hybrid in Finland, and remote worldwide)
+- ✉️ **Email:** [contact@senoldogan.dev](mailto:contact@senoldogan.dev)
+- 📍 **Location:** Oulu, Finland (Available for local roles in Finland and remote positions globally)
